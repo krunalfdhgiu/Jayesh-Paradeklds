@@ -1,0 +1,6 @@
+{
+  "name": "FanFeast AI",
+  "description": "Real-time cricket match companion with live scores, match insights, and one-tap Zomato food ordering integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
